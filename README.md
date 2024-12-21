@@ -1,5 +1,7 @@
 # Wallpaper App
 
+https://github.com/user-attachments/assets/77479e66-2670-40af-abaa-0e5759a09484
+
 # Features
 
 - **Searchable:** Users can input keywords or phrases to find relevant images.
